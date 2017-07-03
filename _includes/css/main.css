@@ -513,6 +513,15 @@ border-width: 0px;
     background: #224080;
 }
 
+.track-tag{
+    background: #8899cc;
+    color: #fff;
+    padding: 5px 20px;
+    border-radius: 30px;
+    margin: 15px 0px;
+    width: 200px;	
+}
+
 /* Google maps solution */
 .map-responsive{
     overflow:hidden;
