@@ -543,3 +543,9 @@ border-width: 0px;
     margin: 15px 0px;
 }	
 }
+
+/* Custom table css*/
+.custom-header {
+    color: #fff;
+    background: #224080;
+}
