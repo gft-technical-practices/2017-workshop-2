@@ -508,7 +508,7 @@ border-width: 0px;
 }
 
 /* Custom table css*/
-.custom-header th{
+.custom-header{
     color: #fff;
     background: #224080;
 }
