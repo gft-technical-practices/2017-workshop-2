@@ -507,6 +507,12 @@ border-width: 0px;
  color: #{{ site.color.primarylink }};
 }
 
+/* Custom table css*/
+.custom-header th{
+    color: #fff;
+    background: #224080;
+}
+
 /* Google maps solution */
 .map-responsive{
     overflow:hidden;
@@ -542,10 +548,4 @@ border-width: 0px;
     font-size: 20px;
     margin: 15px 0px;
 }	
-}
-
-/* Custom table css*/
-.custom-header {
-    color: #fff;
-    background: #224080;
 }
