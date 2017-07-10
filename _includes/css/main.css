@@ -472,7 +472,7 @@ border-width: 0px;
 		background-image: url("img/workshop2.jpg");
 
 		/* Set a specific height */
-		height: 745px; 
+		height: 730px; 
 
 		/* Create the parallax scrolling effect */
 		background-attachment: fixed;
@@ -518,8 +518,7 @@ border-width: 0px;
     color: #fff;
     padding: 5px 20px;
     border-radius: 30px;
-    margin: 15px 0px;
-    width: 200px;	
+    margin: 15px 20px;	
 }
 
 /* Google maps solution */
