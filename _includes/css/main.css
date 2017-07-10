@@ -542,14 +542,14 @@ border-width: 0px;
 
 .palestrante-impar {
     margin-bottom: 20px;
-    background: #cc4466;
+    background: #224080;
     color: #fff;
     padding: 15px 5px;	
 }
 
 .palestrante-par {
     margin-bottom: 20px;
-    background: #1c99b1;
+    background: #8899cc;
     color: #fff;
     padding: 15px 5px;	
 }
