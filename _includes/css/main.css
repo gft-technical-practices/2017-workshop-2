@@ -497,7 +497,7 @@ border-width: 0px;
 		height: 410px; 
 
 		/* Create the parallax scrolling effect */
-		background-attachment: fixed;
+		background-attachment: initial;
 		background-position: center;
 		background-repeat: no-repeat;
 	    	background-blend-mode: exclusion;
