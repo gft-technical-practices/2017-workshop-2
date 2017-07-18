@@ -547,11 +547,19 @@ border-width: 0px;
     padding: 15px 5px;	
 }
 
+.palestrante-impar .bio-palestrante a{
+     color: #8899cc;
+}
+
 .palestrante-par {
     margin-bottom: 20px;
     background: #8899cc;
     color: #fff;
     padding: 15px 5px;	
+}
+
+.palestrante-par .bio-palestrante a{
+     color: #224080;
 }
 
 .foto-palestrante img{
