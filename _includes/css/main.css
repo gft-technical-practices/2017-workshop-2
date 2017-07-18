@@ -544,7 +544,7 @@ border-width: 0px;
     margin-bottom: 20px;
     background: #224080;
     color: #fff;
-    padding: 15px 5px;	
+    padding: 75px 30px;	
 }
 
 .palestrante-impar .bio-palestrante a{
@@ -555,7 +555,7 @@ border-width: 0px;
     margin-bottom: 20px;
     background: #8899cc;
     color: #fff;
-    padding: 15px 5px;	
+    padding: 75px 30px;	
 }
 
 .palestrante-par .bio-palestrante a{
