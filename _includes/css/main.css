@@ -514,8 +514,17 @@ border-width: 0px;
 /* Custom table css*/
 .secondary-header {
   color: #fff;
-  background: #224080;
+  background: #224080;  
+}
+
+.secondary-header th{
   text-align: center;
+  padding: 5px;
+}
+
+tbody>tr>td>b {
+    margin-bottom: 10px;
+    display: inline-block;
 }
 
 .track-tag{
@@ -524,6 +533,7 @@ border-width: 0px;
   border-radius: 30px;
   margin: 5px 5px;
   display: inline-block;
+  margin-top: 15px;
 }
 
 .curitiba{
